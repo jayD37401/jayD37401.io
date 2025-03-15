@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.live.earth.map.satellite.map.street.view.gps.navigation",
-      "sha256_cert_fingerprints": ["YOUR_SHA256_CERT"]
+      "sha256_cert_fingerprints": ["EA:5F:23:C0:74:69:89:5E:01:18:95:68:FB:B1:0A:7C:DD:5D:0A:41:B0:B3:DA:BC:CD:A7:64:3C:A4:62:F3:4B"]
     }
   }
 ]
